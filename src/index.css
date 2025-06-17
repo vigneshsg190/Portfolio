@@ -1,0 +1,22 @@
+nav{
+  background-color: #ff0d0d9c;
+  color: rgba(255, 255, 255, 0.87);
+}
+body {
+  background-color: #f5f5f5; /* light grey */
+  color: #1a1a1a;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  /* color: #ffff; */
+}
+
+.about-me{
+  font-weight: 300;
+
+}
+
+
+.project-head{
+  padding: 5rem;
+}
