@@ -17,7 +17,7 @@ function Resume(){
           <p> Jan 2024 – Present</p>
         </div>
         <motion.a
-          href="/your-resume.pdf"
+          href="/Vignesh-resume-1.pdf"
           download
           whileHover={{ scale: 1.05 }}
           className="inline-block bg-red-600 text-white px-6 py-2 rounded shadow rounded-full"
