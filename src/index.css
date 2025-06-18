@@ -16,7 +16,9 @@ body {
 
 }
 
-
+html{
+  scroll-behavior: smooth;
+}
 .project-head{
   padding: 5rem;
 }

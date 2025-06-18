@@ -11,13 +11,13 @@ function Profile() {
                 <div className="text-center md:text-left">
                     <h1 className="text-2xl font-bold mb-2">Vignesh SG</h1>
                     <p className="text-lg mb-4">Web Developer</p>
-                    <a href="#"
+                    <a href="#projects"
                         className="inline-block bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition">
                         View My Works
                     </a>
                 </div>
             </div>
-            <div className='about-me'>
+            <div id='about' className='about-me'>
                 <div className='container mx-auto px-4'>
                     <div className="grid grid-cols md:w-9/12  mx-auto ">
                         <div>

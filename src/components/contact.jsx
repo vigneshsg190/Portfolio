@@ -8,16 +8,14 @@ import linkedinAnimation from '../assets/Animation - 1750010311571.json';
 
 
 // downloaded from lottiefiles.com
-                    const items = ['a','d'];
 
 
 function Contact() {
     return (
         <>
-<ul>{items.map((item,i) => <li> {i}</li>)}</ul>
 
             <div className=" w-9/12  mx-auto py-12">
-                <p className="text-2xl">Contact</p>
+                <p id = 'contact'className="text-2xl">Contact</p>
                 <div className="flex gap-6 mt-4 items-center">
                     <Lottie
                         animationData={mailAnimation}
